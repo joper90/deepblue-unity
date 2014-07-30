@@ -12,10 +12,13 @@ This consists of all the basic assest etc that are needed and to be tested to ch
 3) Mob basic animation.
 4) basic pickup + collition detection.
 		---- Works, with calling parent scripts
-5) Watch working / air count = death
+5) Watch working / air count = death 
+		---- working.. and rotating correctly.
 6) Inventory working + basic Shop.
 7) Check object placement (random on scroll)
-8) Mob (sharks) movement
+		---- will work fine
+8) Mob (sharks) movement - tween? or ping pong ? hunting?
+
 9) Basic Lighting (+ light to dark as you go deeper) +direction light for head? (caves)
 		---- Lighting works + depth of sea affects lighting
 10) Dropping of items (air)
